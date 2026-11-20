@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6d365,100:fda085&height=190&section=header&text=DeLfi&fontSize=70&fontColor=3b2a1a&animation=fadeIn&fontAlignY=38&desc=Minecraft%20сервера%20под%20ключ&descAlignY=60&descSize=20" width="100%"/>
 
-<a href="https://sleppyworlds.ru/delfi">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&duration=3000&pause=900&color=E07A3F&center=true&vCenter=true&width=520&lines=Плагины+и+датапаки;Сборки+и+настройка+модов;Ивенты%2C+катсцены%2C+боссы;Владелец+SleppyShel+🌙" alt="typing"/>
-</a>
+<b>Плагины · сборки · ивенты · катсцены · боссы</b>
 
 <br/>
 
